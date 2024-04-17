@@ -1,8 +1,20 @@
-# React + Vite
+# ReactFood
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![Badge em Desenvolvimento](https://img.shields.io/badge/status-finish-green)
 
-Currently, two official plugins are available:
+**Fast Pizza** é um site de estudo onde você pode escolher dentre diversas opções de pizzas com um layout amigável e um formulário para pegar seu endereço automaticamente (caso você permita) e seu número de celular.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<img src='./public/fast-pizza-project.png' alt='imagem das pizzas disponíveis'/>
+
+## Ferramentas
+
+As tecnologias usadas foram:
+
+- JavaScript - Linguagem de programação
+- React.Js - Framework
+- Tailwind - Stylesheet
+
+##
+
+- Link para o deploy do site: https://react-fastpizza.netlify.app/
+
