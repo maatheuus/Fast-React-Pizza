@@ -1,4 +1,4 @@
-# ReactFood
+# Fast React Pizza
 
 ![Badge em Desenvolvimento](https://img.shields.io/badge/status-finish-green)
 
